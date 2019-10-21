@@ -1,0 +1,6 @@
+README.md
+setup.py
+trellcli_ent_shtormish.egg-info/PKG-INFO
+trellcli_ent_shtormish.egg-info/SOURCES.txt
+trellcli_ent_shtormish.egg-info/dependency_links.txt
+trellcli_ent_shtormish.egg-info/top_level.txt
