@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: trellcli-ent-shtormish
 Version: 0.0.1
 Summary: trello cli api utility writen with python3
-Home-page: [https://github.com/shtormish/trellCli-ent](https://github.com/shtormish/trellCli-ent)
+Home-page: https://github.com/shtormish/trellCli-ent
 Author: shtormish
 Author-email: 6178049@gmail.com
 License: UNKNOWN
